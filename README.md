@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/40c6c5d9ac1c62d554de0b9b7be4beadb207816b0e42f8dc2fed05b9e7561f70/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966" alt="icon" width=100% height=500px text-align:centre>
+
 <h1 align="center">Hi 👋, I'm Pooja Gosika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
