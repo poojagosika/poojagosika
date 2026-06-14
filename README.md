@@ -17,7 +17,7 @@
 
 ### About Me
 
-- Building **[Drive My Portfolio](https://poojagosika.github.io/drive-my-portfolio)** — a YouTube auto-publishing platform with per-user Google OAuth
+- Building **[Drive My Portfolio](https://poojagosika.github.io/drive-my-portfolio)** — Interactive 3D portfolio — drive an F1 car through an open world to explore my work, skills & journey. Built with React, Three.js & procedural geometry.
 - Solving problems on [LeetCode](https://leetcode.com/poojagosika), [CodeChef](https://www.codechef.com/users/poojagosika), [HackerEarth](https://www.hackerearth.com/@poojagosika) & [GFG](https://auth.geeksforgeeks.org/user/poojagosika)
 - Reach me at **pooja0xdev@gmail.com**
 
