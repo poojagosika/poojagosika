@@ -17,10 +17,9 @@
 
 ### About Me
 
-- Building **[AutoPublish](https://github.com/poojagosika/youtube-automatic-publishing)** — a YouTube auto-publishing platform with per-user Google OAuth
-- Writing about web development on my [blog](https://techgaintpooja.blogspot.com/)
+- Building **[Drive My Portfolio]((https://poojagosika.github.io/drive-my-portfolio))** — a YouTube auto-publishing platform with per-user Google OAuth
 - Solving problems on [LeetCode](https://leetcode.com/poojagosika), [CodeChef](https://www.codechef.com/users/poojagosika), [HackerEarth](https://www.hackerearth.com/@poojagosika) & [GFG](https://auth.geeksforgeeks.org/user/poojagosika)
-- Reach me at **pgstechmail@gmail.com**
+- Reach me at **pooja0xdev@gmail.com**
 
 ---
 
