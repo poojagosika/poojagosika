@@ -17,7 +17,7 @@
 
 ### About Me
 
-- Building **[Drive My Portfolio]((https://poojagosika.github.io/drive-my-portfolio))** — a YouTube auto-publishing platform with per-user Google OAuth
+- Building **[Drive My Portfolio](https://poojagosika.github.io/drive-my-portfolio)** — a YouTube auto-publishing platform with per-user Google OAuth
 - Solving problems on [LeetCode](https://leetcode.com/poojagosika), [CodeChef](https://www.codechef.com/users/poojagosika), [HackerEarth](https://www.hackerearth.com/@poojagosika) & [GFG](https://auth.geeksforgeeks.org/user/poojagosika)
 - Reach me at **pooja0xdev@gmail.com**
 
