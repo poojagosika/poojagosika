@@ -23,6 +23,7 @@ const pooja = {
   ai: ["LangChain", "LangGraph", "RAG", "OpenAI"],
   building: ["InterviewPrepUp", "Upivot", "AutoPublish"],
   focus: "Building Scalable AI Applications",
+  email: "pooja0xdev@gmail.com",
 };
 ```
 
