@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://developer-portfolio-d4v3.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poojagosika)
 [![X](https://img.shields.io/badge/@0xpoojadev-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xpoojadev)
-[![Email](https://img.shields.io/badge/pooja0xdev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooja0xdev@gmail.com)
+[![Email](https://img.shields.io/badge/pooja0xdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooja0xdev@gmail.com)
 
 </div>
 
