@@ -2,8 +2,6 @@
 
 # Pooja Gosika
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=AI+Software+Engineer+%7C+Lead+SDE;Building+AI-Powered+Products+at+Scale;LangChain+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+OpenAI)](https://developer-portfolio-d4v3.onrender.com/)
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://developer-portfolio-d4v3.onrender.com/)
